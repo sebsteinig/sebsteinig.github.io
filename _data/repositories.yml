@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sebsteinig
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - sebsteinig/deepmip-eocene-app
+  - sebsteinig/introduction_to_scientific_computing_lectures
