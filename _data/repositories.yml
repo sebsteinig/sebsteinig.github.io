@@ -3,4 +3,10 @@ github_users:
 
 github_repos:
   - sebsteinig/deepmip-eocene-app
-  - sebsteinig/introduction_to_scientific_computing_lectures
+  - sebsteinig/introduction-to-scientific-computing
+  - sebsteinig/palaeoDMC
+  - sebsteinig/pyGPlates-rotations-simple
+  - sebsteinig/ClimateArchive-API 
+  - sebsteinig/analysis-mcglannan-2022 
+  - WillemNicolas/nimbus
+ 
