@@ -23,4 +23,4 @@ I am a climate scientist at the University of Bristol, working to understand how
 
 I am particularly interested in making our complex climate data accessible to more people, from scientists in other disciplines to policy makers and the general public. I develop hands-on, interactive visualisations to share the beauty of the underlying environmental data and give people new tools to make informed, data-driven decisions about their own futures. I am currently developing the [ClimateArchive](https://climatearchive.org) platform to allow anyone to explore hundreds of millions of years of climate change and put it in the context of projected future climate change.
 
-Have a look at some examples of my work and outreach on this site and please contact me via the platforms at the bottom if you would like to discuss any of this further!
+Browse some examples of my research and outreach work on this site and please contact me via the platforms at the bottom if you would like to discuss any of this further!
