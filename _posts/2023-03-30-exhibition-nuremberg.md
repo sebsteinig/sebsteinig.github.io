@@ -3,7 +3,7 @@ layout: post
 title:  "Horizons: Histories and Futures of Migration"
 date: 2023-03-30
 description: "Exciting collaboration with a cultural history museum"
-tags: visualisations science outreach
+tags: visualisations museum outreach
 thumbnail: assets/img/nuremberg-0.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Wheel of Time weather"
 date: 2021-12-21
 description: part II of climate science meets sci-fi
-tags: visualisations science outreach
+tags: visualisations outreach
 thumbnail: assets/img/wheel-of-time-1.png
 ---
 

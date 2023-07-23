@@ -3,7 +3,7 @@ layout: post
 title:  public launch of climatearchive.org
 date: 2021-10-27
 description: seems like Twitter likes it :)
-tags: visualisations science outreach
+tags: visualisations
 thumbnail: assets/img/twitter-screenshot-climatearchive.png
 ---
 

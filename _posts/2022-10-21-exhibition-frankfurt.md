@@ -3,7 +3,7 @@ layout: post
 title:  "Exhibition: Understanding Climate"
 date: 2022-10-21
 description: My first interactive exhibit for a museum
-tags: visualisations science outreach
+tags: visualisations museum outreach
 thumbnail: assets/img/frankfurt-1.png
 ---
 
