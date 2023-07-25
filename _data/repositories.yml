@@ -6,7 +6,8 @@ github_repos:
   - sebsteinig/introduction-to-scientific-computing
   - sebsteinig/palaeoDMC
   - sebsteinig/pyGPlates-rotations-simple
-  - sebsteinig/ClimateArchive-API 
   - sebsteinig/analysis-mcglannan-2022 
+  - sebsteinig/ClimateArchive-API 
   - WillemNicolas/nimbus
+  - WillemNicolas/archive-db
  

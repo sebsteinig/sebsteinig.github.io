@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Launch of DeepMIP-Eocene app"
-date: 2023-03-30
+date: 2023-04-05
 description: "New interactive web app for streamlined data access"
 tags: visualisations code
 thumbnail: assets/img/deepmip-0.png
