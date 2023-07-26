@@ -48,16 +48,19 @@ And this is the whole idea of the CLimate Archive project: we take our super imp
 
 I developed a completely new application to visualise climate model data in any modern web browser. It is built with the JavaScript library “Three.js” to allow the rendering of a 3D environment without the need to install any plug-ins. The real-time rendering gives instantaneous feedback to any user input and greatly promotes data exploration. Linear interpolation within a series of climate model simulations provides a continuous timeline. Model data is encoded in RGBA colour space for fast and efficient file handling in mobile and desktop browsers. The app allows the visualisation of simulated scalar (e.g., temperature and precipitation) and vector fields (winds and ocean currents) for different atmosphere and ocean levels. The user can seamlessly switch between a traditional 2D map and a more realistic 3D globe view and zoom in and out to focus on regional features. The model geographies are used to vertically displace the surface and to visualise tectonic changes through geologic time. Winds and ocean currents are animated by the time-dependent advection of thousands of small particles based on the climate model velocities. This technique – inspired by the “earth” project by Cameron Beccario – greatly helps to communicate complex flow fields to non-experts. Individual layers representing the ocean, the land, the atmosphere, and the circulation can be placed on top of each other to either focus on single components or their interactions. 
 
+I received initial [seed corn funding from the Jean Golding Institute](https://jeangoldinginstitute.blogs.bristol.ac.uk/2021/01/07/seed-corn-funding-winner-announcement/) which enabled the collaboration with Tessa Alexander, a professional software engineer from the University of Bristol Research IT. This did not only help with transferring my ideas into a website but also ensured a solid technical foundation of the app which is crucial for future development and maintainability. In particular, a development workflow using a Docker container has been implemented to simplify sharing and expanding the app within the community.
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="https://www.youtube.com/embed/Ot3yYMwJRqY?start=1007" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://www.youtube.com/embed/-ADNyRWzYtE" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
 </div>
 <div class="caption">
-    I discuss some of the motivation and technical details in this DataViz online seminar.
+    I discuss some of the motivation and technical details in these YouTube videos.
 </div>
-
-I received initial [seed corn funding from the Jean Golding Institute](https://jeangoldinginstitute.blogs.bristol.ac.uk/2021/01/07/seed-corn-funding-winner-announcement/) which enabled the collaboration with Tessa Alexander, a professional software engineer from the University of Bristol Research IT. This did not only help with transferring my ideas into a website but also ensured a solid technical foundation of the app which is crucial for future development and maintainability. In particular, a development workflow using a Docker container has been implemented to simplify sharing and expanding the app within the community.
 
 #### 2023 update:
 After the successful launch of the first version of climatearchive.org, I am super excited to announce some big plans for this year: Akina Renard and Willem Nicolas are MSc Computer Science and Software Engineering students from Toulouse, France and will spend five months this summer in Bristol to work with me on the next Climate Archive version. The goal is transform the current prototype into a modern, open-access data visualisation and sharing tool. We are currently rewriting all parts of the workflow (i.e. converting netCDF data, storing data sets in a database and rewriting the engine+website from scratch with React+Next.js). The first two parts of this workflow are already open-access and available as a new [netCDF converter](https://github.com/WillemNicolas/nimbus) and [model database+API](https://github.com/WillemNicolas/archive-db). We are currently working on the new engine and frontend with an open release scheduled for later this year.
