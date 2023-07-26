@@ -1,74 +1,66 @@
 ---
 layout: page
 title: climatearchive.org
-description: a project with a background image
-img: assets/img/12.jpg
+description: the Google Earth for climate data
+img: assets/img/climatearchive_present_day_2.png
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: visualisation
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-#### feedback
-
-<div class="row">
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% twitter https://twitter.com/ClimateOfGavin/status/1436159886073769987 %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% twitter https://twitter.com/ClimateOfGavin/status/1436159886073769987 %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="assets/video/climatearchive-overview-web.mp4.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Overview of some projects using the new Cliamte Archive engine.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+## feedback
+
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% twitter https://twitter.com/ClimateOfGavin/status/1436159886073769987 %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% twitter https://twitter.com/leafwax/status/1436449888741429248 %}
     </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% twitter https://twitter.com/metbeni/status/1453021034383384584 %}
+    </div>
+
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% twitter https://twitter.com/FestOfTomorrow/status/1509815452188430337 %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% twitter https://twitter.com/qikipedia/status/1578399765859110912 %}
     </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% twitter https://twitter.com/microsiervos/status/1453270957150384137 %}
+    </div>
+
 </div>
-```
-{% endraw %}
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% twitter https://twitter.com/ClimateDann/status/1452972586573475841 %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% twitter https://twitter.com/PaleoForams/status/1453078514945642498 %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% twitter https://twitter.com/Andrew_Mc30/status/1452988400479477770 %}
+    </div>
+
+</div>
+
+
+
+<div class="caption">
+    Some encouraging feedback about the project on Twitter.
+</div>
