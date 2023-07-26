@@ -66,16 +66,42 @@ After the successful launch of the first version of climatearchive.org, I am sup
 #### Climate change across the last 540 million years
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/ca-intro-past.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.html path="assets/video/cop26_climatearchive-app_overview.mp4" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
+
 The user can easily navigate on a geologic timescale to investigate climate variability due to changes in atmospheric CO2 and paleogeography throughout the last 540 million years. Based on our Bristol couple climate model simulations. Available at [https://climatearchive.org](https://climatearchive.org).
 
 #### Climate change projections for the 21st century
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/ca-intro-past.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
+
 Comparison of the consequences of a +1.5 °C or +3 °C world at the end of this century. Based on CMIP6 ensemble mean scenario projections. More info in the [COP26 blog post](/blog/2021/COP26/). Available at [https://climatearchive.org/cop26](https://climatearchive.org/cop26.html).
 
 #### Climate change projections for the next one million years.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/climatearchive-next-million.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
 Return of the natural glacial-interglacial cycles after a sudden, strong anthropogenic warming. Based on emulator work to find safe nuclear waste storage locations. Available at [https://climatearchive.org/nextMillion](https://climatearchive.org/nextMillion.html).
+
+#### Climate science meets sci-fi
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/Dune.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/wheel-of-time.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
+We have a history in Bristol of using pop culture examples to explain climate science to new audiences and I provided new visualisations to support this. For more info, see the respective blog posts about [Dune](/blog/2021/Dune/) and [Wheel of Time](/blog/2021/Wheel-of-Time-Weather/).
+
+#### Climate Archive in museums
+I used the engine to create custom, interactive climate change visualisations for natural and cultural history museums. For more info, see the respective blog posts on [Understanding Climate](/blog/2022/exhibition-frankfurt/) and [Horizons: Histories and Futures of Migration](/blog/2021/exhibition-nuremberg/).
 
 ## Feedback
 I received a lot of positive and encouring feedback since the launch of the first version of climatearchive.org in [October 2021](/blog/2021/public-launch/). I wanted to collect some Twitter feedback here for documentation.
