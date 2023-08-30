@@ -104,7 +104,7 @@ Return of the natural glacial-interglacial cycles after a sudden, strong anthrop
 We have a history in Bristol of using pop culture examples to explain climate science to new audiences and I provided new visualisations to support this. For more info, see the respective blog posts about [Dune](/blog/2021/Dune/) and [Wheel of Time](/blog/2021/Wheel-of-Time-Weather/).
 
 #### Climate Archive in museums
-I used the engine to create custom, interactive climate change visualisations for natural and cultural history museums. For more info, see the respective blog posts on [Understanding Climate](/blog/2022/exhibition-frankfurt/) and [Horizons: Histories and Futures of Migration](/blog/2021/exhibition-nuremberg/).
+I used the engine to create custom, interactive climate change visualisations for natural and cultural history museums. For more info, see the respective blog posts on [Understanding Climate](/blog/2022/exhibition-frankfurt/) and [Horizons: Histories and Futures of Migration](/blog/2023/exhibition-nuremberg/).
 
 ## Feedback
 I received a lot of positive and encouring feedback since the launch of the first version of climatearchive.org in [October 2021](/blog/2021/public-launch/). I wanted to collect some Twitter feedback here for documentation.
