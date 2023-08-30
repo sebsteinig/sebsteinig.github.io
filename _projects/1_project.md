@@ -30,7 +30,7 @@ Climate change is the biggest threat modern humans have ever faced. But it is al
 
 Although extremely important, only few people have ever interacted with this raw climate data underpinning our future warming projections and resulting climate change policies. This is partly because scientists are used to provide their climate data in rather complex, static maps with different layers of geographical information which are not intuitively accessible for most people. But I would argue that actually nearly all of us know how to interact with maps and complex geographical information, because we do it nearly every day, whether it's checking the weather forecast, using navigation apps, or exploring our next holiday destination on Google Earth. The difference is that we are used to these super intuitive user interfaces like flicking the globe in Google Earth, instead of looking at a pile of static maps. 
 
-And this is the whole idea of the CLimate Archive project: we take our super important data and add a user interface that we are all familiar with to produce a Google Earth for climate data. We are all born with this intrinsic curiosity to explore, and by making this complex data more accessible and approaching it in a rather playful way, we can use this curiosity to extract the essential information and learn about the science behind climate change in a more engaging and rewarding way. This ultimately helps to make better use of the data across all user groups. 
+And this is the whole idea of the Climate Archive project: we take our super important data and add a user interface that we are all familiar with to produce a Google Earth for climate data. We are all born with this intrinsic curiosity to explore, and by making this complex data more accessible and approaching it in a rather playful way, we can use this curiosity to extract the essential information and learn about the science behind climate change in a more engaging and rewarding way. This ultimately helps to make better use of the data across all user groups. 
 
 ## Technical details
 
@@ -69,7 +69,7 @@ After the successful launch of the first version of climatearchive.org, I am sup
 #### Climate change across the last 540 million years
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/cop26_climatearchive-app_overview.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.html path="assets/video/ca-intro-past.mp4" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
 
@@ -78,7 +78,7 @@ The user can easily navigate on a geologic timescale to investigate climate vari
 #### Climate change projections for the 21st century
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/ca-intro-past.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.html path="assets/video/cop26_climatearchive-app_overview.mp4" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
 
