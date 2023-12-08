@@ -5,9 +5,9 @@ github_repos:
   - sebsteinig/deepmip-eocene-app
   - sebsteinig/introduction-to-scientific-computing
   - sebsteinig/palaeoDMC
+  - sebsteinig/era5-heatwaves
   - sebsteinig/pyGPlates-rotations-simple
   - sebsteinig/analysis-mcglannan-2022 
   - sebsteinig/ClimateArchive-API 
   - WillemNicolas/nimbus
-  - WillemNicolas/archive-db
  

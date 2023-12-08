@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Lecturer in Physical Geography
+subtitle: Senior Research Associate in Physical Geography
 
 profile:
   align: right
